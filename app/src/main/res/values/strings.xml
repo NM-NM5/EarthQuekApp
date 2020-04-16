@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EarthQuake</string>
+
+
+    /* Name Strings*/
+    <string name="name_1">San Francisco</string>
+    <string name="name_2">London</string>
+    <string name="name_3">Tokyo</string>
+    <string name="name_4">Mexico City</string>
+    <string name="name_5">Moscow</string>
+    <string name="name_6">Rio de Janeiro</string>
+    <string name="name_7">Paris</string>
+
+    /* Magnitude Strings*/
+    <string name="magnitude_1">3.2</string>
+    <string name="magnitude_2">2.7</string>
+    <string name="magnitude_3">4.5</string>
+    <string name="magnitude_4">4.1</string>
+    <string name="magnitude_5">1.9</string>
+    <string name="magnitude_6">4.0</string>
+    <string name="magnitude_7">4.7</string>
+
+    /* Date Strings*/
+    <string name="date_1"> 15 January 2020</string>
+    <string name="date_2"> 21 December 2019</string>
+    <string name="date_3"> 9 October 2019</string>
+    <string name="date_4"> 9 October 2019</string>
+    <string name="date_5"> 9 October 2019</string>
+    <string name="date_6"> 9 October 2019</string>
+    <string name="date_7"> 9 October 2019</string>
+
+</resources>
